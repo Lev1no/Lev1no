@@ -11,3 +11,32 @@ Hello there! 👋 I'm a passionate Computer Science student hailing from the bea
 💪 Staying Active: Fitness plays a big role in my life, keeping me energized and focused. Whether it's a morning jog or a challenging workout, staying active for a healthy mind and body.
 
 🌐 Let's Connect: Dive into my repositories to see what I've been up to! I'm always open to collaborate, learn, and share ideas with fellow tech enthusiasts.
+
+---
+
+### 🧰 Languages and Tools
+
+<img align="left" alt="#" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img align="left" alt="#" width="30px" style="padding-right:10px" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+<img align="left" alt="#" width="30px" style="padding-right:10px" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
+<img align="left" alt="#" width="30px" style="padding-right:10px" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
+<img align="left" alt="#" width="30px" style="padding-right:10px" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+<img align="left" alt="#" width="30px" style="padding-right:10px" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+<img align="left" alt="#" width="30px" style="padding-right:10px" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" alt="#" width="30px" style="padding-right:10px" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" />
+<img align="left" alt="#" width="30px" style="padding-right:10px" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="#" width="30px" style="padding-right:10px" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+<img align="left" alt="#" width="30px" style="padding-right:10px" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img align="left" alt="#" width="30px" style="padding-right:10px" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+                                                  
