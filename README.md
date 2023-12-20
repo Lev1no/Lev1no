@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Lev1no
 
-```CS Student (looking for a job/internship at tech)```
+```CS Student (looking for a job/internship in tech)```
 
 Hello there! 👋 I'm a passionate Computer Science student hailing from the beautiful land of Finland. My journey in tech is fueled by curiosity and a desire to explore the endless possibilities that coding offers.
 
