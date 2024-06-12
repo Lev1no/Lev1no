@@ -1,6 +1,7 @@
 # 👨🏻‍💻 Lev1no
 
 ```CS Student (looking for a job/internship in tech)```
+- Bachelor's degree in computer science complete! 
 
 Hello there! 👋 I'm a passionate Computer Science student hailing from the beautiful land of Finland. My journey in tech is fueled by curiosity and a desire to explore the endless possibilities that coding offers.
 
