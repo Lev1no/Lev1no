@@ -4,7 +4,7 @@
 - Bachelor's degree in computer science complete!
 - Startings Master's in 2024!
 
-Hello there! 👋 I'm a passionate Computer Science student hailing from the beautiful land of Finland. My journey in tech is fueled by curiosity and a desire to explore the endless possibilities that coding offers.
+Hello there! 👋 I'm a passionate Computer Science student from the beautiful land of Finland.
 
 ---
 
@@ -42,8 +42,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.s
 
 <details>
   <summary><h3>My Coding Journey<h3/></summary>
-🎓 The Genesis: University and the Spark of Code
-My coding journey began in 2020, a pivotal year that marked not just the start of a new decade but also the commencement of my university life. Stepping into the realm of Computer Science, I was like a ship setting sail into a vast ocean of possibilities. 
 
 🌱 Growth and Exploration: Embracing the Challenges
 As I delved deeper into the world of programming, I discovered that coding was not just about writing lines of code; it was about breathing life into ideas, solving complex puzzles, and creating something out of nothing. The journey wasn't always smooth sailing. There were days filled with baffling errors and sleepless nights, but every challenge was a stepping stone towards greater understanding and skill.
@@ -54,9 +52,4 @@ One of the most exhilarating aspects of my coding journey has been the ability t
 🔄 The Daily Grind: Perseverance and Passion
 Coding has taught me the value of perseverance. The daily grind, filled with its unique set of challenges, has become a part of my life that I genuinely enjoy. It's in the process of overcoming these challenges that I find personal growth and the relentless drive to keep pushing forward.
 
-🎮 The Dream: Crafting a World of My Own
-As I approach the completion of my Bachelor's degree, my dreams and ambitions continue to grow. My ultimate aspiration is to channel my passion for coding into developing my own game. I envision a game that isn't just a fleeting pastime but a memorable experience that players genuinely enjoy and connect with. This dream is what fuels my journey, driving me to learn more, experiment more, and create something truly remarkable.
-
-🔜 The Horizon: What Lies Ahead
-As I stand on the cusp of achieving my Bachelor's degree, I look forward to the future with excitement and anticipation. The journey so far has been incredible, and I know that this is just the beginning. With each line of code, I'm not just writing a program; I'm scripting the chapters of my ongoing odyssey in the world of technology.
 </details>
