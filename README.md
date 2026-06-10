@@ -2,9 +2,9 @@
 
 ```CS Student (looking for a job/internship in tech)```
 - Bachelor's degree in computer science complete!
-- Startings Master's in 2024!
+- Master's degree in computer science complete! 
 
-Hello there! 👋 I'm a passionate Computer Science student from the beautiful land of Finland.
+Hello there! 👋 I'm a passionate Computer Science graduate from the beautiful land of Finland.
 
 ---
 
